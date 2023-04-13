@@ -1,7 +1,8 @@
 # Overview
 
 Create prompts to reflect different authorship styles. 
-Implements similar approach to: [Directional Stimulus Prompting](https://www.promptingguide.ai/techniques/dsp)
+
+> Implements similar approach to: [Directional Stimulus Prompting](https://www.promptingguide.ai/techniques/dsp)
 
 ## Original Prompt
 ```
