@@ -1,5 +1,5 @@
 # Prompt Engineer Tutor
-The goal was to crearte a prompt that would help write and refine other prompts.
+The goal was to create a prompt that would help write and refine other prompts.
 - Tutor must be qualified
 - Tutor must be conversational
 - Tutor must be relatable
